@@ -8,7 +8,7 @@ Tradefeeds subscription packages are developed in such a way to serve all custom
 
 
 
-<h2><a id="user-content-ways-to-access-company-data" class="anchor" href="https://github.com/Tradefeeds-Financial-data-API/Company-information-API#ways-to-access-company-data" aria-hidden="true"></a>Ways to access company data</h2>
+<h2><a id="user-content-ways-to-access-SEC-flings-data" class="anchor" href="https://github.com/Tradefeeds-Financial-data-API/SEC-Filings-API#ways-to-access-sec-filings-data" aria-hidden="true"></a>Ways to access SEC filings  data</h2>
 <ul>
  	<li><strong>JSON REST API</strong></li>
  	<li><strong>Excel CSV download</strong></li>
